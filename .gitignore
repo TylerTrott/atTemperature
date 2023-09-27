@@ -3,6 +3,6 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
-.data
-.include/constants.h
-constants.h
+data/
+include/constants.h
+
